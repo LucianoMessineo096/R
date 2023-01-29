@@ -1,0 +1,6 @@
+N acquisti  N clienti iscritti al programma
+1           11
+2           28
+3           14
+5           13
+6            8
